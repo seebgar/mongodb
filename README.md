@@ -23,6 +23,8 @@ http://localhost:5000/countries
 
 Ejemplo
 
+> POSTMAN : **/MongoTarea.postman_collection.json**
+
 > con la extensión de VSCode, REST Client se pueden correr los siguientes en el archivo **/routes/countries.test.rest**
 
 ```sh
