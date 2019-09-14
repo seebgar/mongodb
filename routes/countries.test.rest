@@ -8,14 +8,14 @@ GET http://localhost:5000/countries
 
 
 ### GET ONE
-GET http://localhost:5000/countries/Canada
+GET http://localhost:5000/countries/Colombia
 
 ### POST 
 POST http://localhost:5000/countries
 Content-Type: application/json
 
 {
-    "country":"Yugoslavia",
+    "country":"Yogoslavia",
     "population":2,
     "continent":"Europa",
     "lifeExpectancy":23.8,
@@ -31,4 +31,4 @@ Content-Type: application/json
 }
 
 ### DELETE
-DELETE http://localhost:5000/countries/Canada
+DELETE http://localhost:5000/countries/Yogoslavia

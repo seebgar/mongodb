@@ -9,8 +9,9 @@ Conexión a MongoDB localmente. Con la colección *countries*, se hace un simple
 ```sh
 $ cd < este repositorio >
 $ yarn install 	# npm install 
-$ yarn start  # npm start
+$ yarn start  # npm start || yarn mongoStart # para utilizar mongoDB y no mongoose (*)
 ```
+(*) Había realizado la tarea con mongoose pero al parecer tocaba hacerlos con MongoDB nativo y no queria borrar lo demás :)
 
 http://localhost:5000/countries
 
