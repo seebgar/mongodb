@@ -17,7 +17,7 @@ http://localhost:5000/countries
 
 |  GET ALL | GET ONE   |   POST | PUT | DELETE | 
 |---|---| ---|---| ---|
-| countries/  |  countries/Colombia  | countries/Colombia {body} |countries/Colombia {body}  | countries/Colombia  |
+| countries/  |  countries/Colombia  | countries/ {body} |countries/Colombia {body}  | countries/Colombia  |
 
 
 <hr/>
